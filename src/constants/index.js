@@ -48,7 +48,7 @@ export const features = [
     icon: star,
     title: "Excellence",
     content:
-      "FDDS is empowering people in the field of Data Science through the knowledge of Data Science",
+      "FDSS is empowering people in the field of Data Science through the knowledge of Data Science",
   },
   {
     id: "feature-2",

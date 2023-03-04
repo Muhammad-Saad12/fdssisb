@@ -22,7 +22,7 @@ const Footer = () => (
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 ">
       <p className="font-poppins font-normal  text-[16px] leading-[27px] text-white">
-        Copyright Ⓒ 2023 FDSSS Research and Development Department
+        Copyright Ⓒ 2023 FDSS Research and Development Department
       </p>
 
       <div className="flex flex-row md:mt-0 mt-6">
