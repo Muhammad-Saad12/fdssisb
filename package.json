@@ -1,19 +1,20 @@
 {
   "homepage": "http://Muhammad-Saad12.github.io/fdssisb",
-  "name": "fdss",
+  "name": "hoobank",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
@@ -24,5 +25,17 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6",
     "vite": "^3.0.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Saad12/fdssisb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Saad12/fdssisb/issues"
+  },
+  "keywords": [],
+  "description": ""
 }
